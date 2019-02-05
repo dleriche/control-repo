@@ -101,6 +101,7 @@ mod 'abuxton-pdk', '0.2.0'
 mod 'jdowning-rbenv', '2.4.0'
 mod 'tkishel-system_gem', '1.1.1'
 mod 'tspy-code_deploy', '1.0.4'
+mod 'BashTheStampede-aix_usersec', '0.1.0'
 
 mod 'tse-tse_facts',
   :git => 'https://github.com/puppetlabs/tse-module-tse_facts.git'

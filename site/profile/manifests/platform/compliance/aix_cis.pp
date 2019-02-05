@@ -6,7 +6,7 @@ class profile::platform::compliance::aix_cis {
   path   => '/etc/security/user',
   line   => 'minother = 2',
   }
-  ## AIX 3.2.1.2 system account lockdown - bin pg33
+  ## AIX 3.2.1.2 system account lockdown - bin pg33 test
   user { 'bin':
     ensure     => 'present',
     attributes => {

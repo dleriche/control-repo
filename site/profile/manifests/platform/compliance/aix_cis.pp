@@ -1,4 +1,4 @@
-class profile::platform::aix_cis {
+class profile::platform::compliance::aix_cis {
 
   ## AIX 3.1.6 /etc/security/user - minother pg24
   file_line { 'minother':
